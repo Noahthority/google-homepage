@@ -1,13 +1,5 @@
-body {
-    margin: 0;
-    padding: 0;
-    box-sizing: border-box;
-}
 .main {
-    text-align: -webkit-center;
-    display: block;
-    margin-left: auto;
-    margin-right: auto;
+    text-align: center;
 }
 .header_right {
     float: right;
@@ -27,6 +19,9 @@ body {
     font-size: 13px;
     opacity: 0.75;
 }
+.logo {
+    padding-top: 109px;
+}
 .header_right button {
     background: #4285f4;
     color: #fff;
@@ -37,9 +32,27 @@ body {
     border-radius: 10%;
     font-weight: bold; 
 }
+.search {
+    margin: 0 auto:
+}
 .searchbox {
     width: 200px;
-    display: inline-block; 
-    
-
+}
+.fbar {
+    background: #f2f2f2;   
+    bottom: 0:
+}
+.footer_left a {
+    text-decoration: none;
+    color: #5f6368;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 13px;
+    padding-left: 27px;
+}
+.footer_right a {
+    text-decoration: none;
+    color: #5f6368;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 13px;
+    padding-left: 27px;
 }
