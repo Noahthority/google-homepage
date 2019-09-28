@@ -1,0 +1,14 @@
+body {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.header_right {
+    float: right;
+}
+.header_left a {
+    margin: 10px;
+}
+.header_right a {
+    margin: 10px;
+}
